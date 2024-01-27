@@ -1,3 +1,4 @@
 export class BoardReqDto {
-  text : string;
+  title : string;
+  content : string;
 }
